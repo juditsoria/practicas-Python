@@ -1,4 +1,4 @@
-Introducción
+
 Este repositorio contiene todas las prácticas realizadas a lo largo de la parte de Python del máster de Inteligencia artificial. El curso abarca desde los fundamentos básicos hasta conceptos avanzados, 
 proporcionando una base sólida para el desarrollo de aplicaciones y proyectos en Python, con un enfoque especial en Inteligencia Artificial (IA).
 
